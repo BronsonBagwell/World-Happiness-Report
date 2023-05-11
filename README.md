@@ -4,7 +4,7 @@ Exploratory Data Analysis, Linear Regression Prediction, Regression Tree Predict
 
 The Notebook can be found here https://www.kaggle.com/code/bronsonb/happiness-score-2019-eda-prediction
 
-The data set can be found here  https://www.kaggle.com/datasets/unsdsn/world-happiness
+The Data Set can be found here  https://www.kaggle.com/datasets/unsdsn/world-happiness
 
 The following are the Plotly Express Graphs in the notebook:
 
