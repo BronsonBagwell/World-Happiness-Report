@@ -1,6 +1,6 @@
 # World-Happiness
 
-Exploratory Data Analysis, Linear Regression Prediction, Regression Tree Prediction using a World Happiness Report data set. 
+Python Exploratory Data Analysis, Linear Regression Prediction, Regression Tree Prediction using a World Happiness Report data set. 
 
 The Notebook can be found here https://www.kaggle.com/code/bronsonb/happiness-score-2019-eda-prediction
 
